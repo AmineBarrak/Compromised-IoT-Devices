@@ -34,12 +34,20 @@ In the following figure, we explore the energy consumption in the normal and com
 
 
 
-<p float="left">
-  <img src="images/energy/archer.png" width="250" />
-  <img src="images/energy/cctv.png" width="250" /> 
-  <img src="images/energy/indoor.png" width="250" />
-</p>
-
+<table>
+  <tr>
+    <td>Archer device</td>
+     <td>CCTV device</td>
+     <td>Indoor Camera</td>
+  </tr>
+  <tr>
+    <td><img src="images/energy/archer.png" width="250" /></td>
+    <td><img src="images/energy/cctv.png" width="250" /> </td>
+    <td><img src="images/energy/indoor.png" width="250" /></td>
+  </tr>
+ </table>
+ 
+ 
 
 In the following we are going to show an example of the dataset with normal and with Mirai attack.
  
