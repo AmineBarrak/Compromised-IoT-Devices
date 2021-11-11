@@ -33,9 +33,12 @@ For each component, we collect the metrics in the attack state as well as in the
 In the following figure, we explore the energy consumption in the normal state and for the compromised situation:
 
 
-<img src="images/energy/archer.png" alt="drawing" width="200"/>
-<img src="images/energy/cctv.png" alt="drawing" width="200"/>
-<img src="images/energy/indoor.png" alt="drawing" width="200"/>
+
+<p float="left">
+  <img src="images/energy/archer.png" width="250" />
+  <img src="images/energy/cctv.png" width="250" /> 
+  <img src="images/energy/indoor.png" width="250" />
+</p>
 
 
 In the following we are going to show an example of the dataset with normal and with Mirai attack.
