@@ -30,7 +30,7 @@ We have collected two types of data (Network Traffic, Energy consumption). The m
 
 For each component, we collect the metrics in the attack state as well as in the normal state for a period of 30 minutes.
 
-In the following figure, we explore the energy consumption in the normal state and for the compromised situation:
+In the following figure, we explore the energy consumption in the normal and compromised situation:
 
 
 
