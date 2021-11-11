@@ -59,20 +59,15 @@ Ce travail a ete publie dans QRS 2021:
 
 BibTex:
 
+```yaml
 @article{qrs2021-iot,
  author = {Fehmi Jaafer and Darine Ameyed and Amine Barrak and Mohamed Cheriet},
- 
  title = {Identification of Compromised IoT Devices: Combined Approach Based on Energy Consumption
 and Network Traffic Analysis},
-
  booktitle = {Proceedings of the 2021 IEEE International Conference on Software Quality, Reliability and Security (QRS)},
- 
  year = {2021},
- 
  month = {Decenber},
- 
  address = {Hinan, China},
- 
  notes = {To appear},
 }
 
