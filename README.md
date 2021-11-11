@@ -1,9 +1,9 @@
 # Compromised-IoT-Devices
 This repository is created to show a sample of the data used in research work to identify compromised iot devices.
 
-Dans cet etude nous avons applique 3 type d'attaques qui sont connue dans les attaques des IoT devices (Mirai, UFOnet, RouterSploit).
+In this study we have applied 3 types of attacks which are known in the attacks of IoT devices (Mirai, UFOnet, RouterSploit).
 
-Nous avons utiliser 6 IoT devices qui sont detaille dans le tableau suivant:
+We have used 6 IoT devices which are detailed in the following table:
 
 |             Devices             |            Model           |
 |:-------------------------------:|:--------------------------:|
@@ -15,7 +15,7 @@ Nous avons utiliser 6 IoT devices qui sont detaille dans le tableau suivant:
 | (6) DVR Digital Video Recorder  | ANNKE DVR 8CH              |
 
 
-Nous avons collecter deux type de donnee (Network Traffic, Energy consumption). Les metrique utilise dans ce travail sont detaille dans le tableau suivant:
+We have collected two types of data (Network Traffic, Energy consumption). The metrics used in this work are detailed in the following table:
 
 |     Tool      | Feature         | Description                                                                       |
 |:-------------:|-----------------|-----------------------------------------------------------------------------------|
@@ -28,23 +28,24 @@ Nous avons collecter deux type de donnee (Network Traffic, Energy consumption). 
 
 
 
-Pour chaque composant, nous avons collecter les metriques dans l'etat d'attaque ainsi que dans l'etat normal pour une periode de 30 minutes.
+For each component, we collect the metrics in the attack state as well as in the normal state for a period of 30 minutes.
 
-Dans les figure suivante, nous explorant l'energy consumption dans l'etat normal et pour les compromised situation:
+In the following figure, we explore the energy consumption in the normal state and for the compromised situation:
 
-![title](images/energy/archer.png)
-![title](images/energy/cctv.png)
-![title](images/energy/indoor.png)
+
+<img src="images/energy/archer.png" alt="drawing" width="200"/>
+<img src="images/energy/cctv.png" alt="drawing" width="200"/>
+<img src="images/energy/indoor.png" alt="drawing" width="200"/>
 
 
 In the following we are going to show an example of the dataset with normal and with Mirai attack.
  
-Un exemple de data est fournit dans le folder dataset.
+An example of data is provided in the folder dataset.
 
 
 
-Nous avons fait un statistical test P-value of Mann-Whitney U test and effect size.
-Le script est fournit dans le dossier src.
+We did a statistical test P-value of Mann-Whitney U test and effect size.
+The script is provided in the src folder.
 
 
 
@@ -52,7 +53,7 @@ Le script est fournit dans le dossier src.
 
 ## Reference
 
-Ce travail a ete publie dans QRS 2021:
+This work was published in QRS 2021:
 
 <a href="https://bit.ly/3HdRqra" target="_blank">Link to the paper</a>
 
