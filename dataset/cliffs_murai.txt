@@ -1,0 +1,92 @@
+[1] "energy"
+p-value:  6.566812e-65 
+correct p-value:  9.381159e-66 
+estimate:  0.1281162 
+[1] "packet"
+p-value:  0 
+correct p-value:  0 
+estimate:  -0.3071898 
+[1] "unique_sour"
+p-value:  0 
+correct p-value:  0 
+estimate:  -0.266992 
+[1] "unique_dest"
+p-value:  0 
+correct p-value:  0 
+estimate:  -0.2569365 
+[1] "median_len"
+p-value:  4.907788e-33 
+correct p-value:  7.011125e-34 
+estimate:  -0.08876264 
+[1] "mean_len"
+p-value:  1.407296e-32 
+correct p-value:  2.010423e-33 
+estimate:  -0.08830983 
+[1] "device"
+p-value:  0.9995912 
+correct p-value:  0.1427987 
+estimate:  3.817118e-06 
+[1] "protocol_TCP"
+p-value:  0 
+correct p-value:  0 
+estimate:  -0.3098899 
+[1] "protocol_IGMPv3"
+p-value:  0.3172485 
+correct p-value:  0.04532122 
+estimate:  -8.536794e-05 
+[1] "protocol_DHCP"
+p-value:  0.7568443 
+correct p-value:  0.1081206 
+estimate:  0.0002543555 
+[1] "protocol_ARP"
+p-value:  0.9944313 
+correct p-value:  0.1420616 
+estimate:  -1.864851e-05 
+[1] "protocol_0x8033"
+p-value:  0.9996935 
+correct p-value:  0.1428134 
+estimate:  -7.284575e-08 
+[1] "protocol_SSDP"
+p-value:  0.9156203 
+correct p-value:  0.1308029 
+estimate:  -8.704339e-05 
+[1] "protocol_ICMPv6"
+p-value:  0.5889663 
+correct p-value:  0.08413804 
+estimate:  -0.0002566137 
+[1] "protocol_IGMPv2"
+p-value:  0.1572195 
+correct p-value:  0.02245993 
+estimate:  -0.0001707359 
+[1] "protocol_ICMP"
+p-value:  1.175663e-26 
+correct p-value:  1.679519e-27 
+estimate:  -0.0121229 
+[1] "protocol_HTTP"
+p-value:  0.4462011 
+correct p-value:  0.06374301 
+estimate:  0.0004259655 
+[1] "protocol_LLC"
+p-value:  0.9998074 
+correct p-value:  0.1428296 
+estimate:  -3.642288e-08 
+[1] "protocol_MDNS"
+p-value:  0.04553714 
+correct p-value:  0.006505305 
+estimate:  0.0003413261 
+[1] "protocol_UDP"
+p-value:  0.9809428 
+correct p-value:  0.1401347 
+estimate:  6.559031e-05 
+[1] "protocol_TLSv1.2"
+p-value:  0.6495568 
+correct p-value:  0.09279383 
+estimate:  -0.0004289886 
+[1] "protocol_DNS"
+p-value:  0.6565411 
+correct p-value:  0.09379158 
+estimate:  -0.0009505933 
+[1] "protocol_NTP"
+p-value:  0.9975385 
+correct p-value:  0.1425055 
+estimate:  -3.787979e-06 

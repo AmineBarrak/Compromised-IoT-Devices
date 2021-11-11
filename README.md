@@ -32,28 +32,29 @@ Pour chaque composant, nous avons collecter les metriques dans l'etat d'attaque 
 
 Dans les figure suivante, nous explorant l'energy consumption dans l'etat normal et pour les compromised situation:
 
---fig1
---fig2
---fig3
+![title](images/energy/archer.png)
+![title](images/energy/cctv.png)
+![title](images/energy/indoor.png)
 
 
-Un exemple de data brut est fournit dans le path suivant:
---
+In the following we are going to show an example of the dataset with normal and with Mirai attack.
+ 
+Un exemple de data est fournit dans le folder dataset.
 
-Le script pour merger les data (energy + network) sur le meme dataframe est le suivant:
---
 
-Les resultat du merge de data (energy + network) est fournit dans le path suivant:
---
 
 Nous avons fait un statistical test P-value of Mann-Whitney U test and effect size.
-Le script est le suivant:
---
+Le script est fournit dans le dossier src.
 
+
+
+
+
+## Reference
 
 Ce travail a ete publie dans QRS 2021:
 
-Link to the paper: https://bit.ly/3HdRqra
+<a href="https://bit.ly/3HdRqra" target="_blank">Link to the paper</a>
 
 
 BibTex:
